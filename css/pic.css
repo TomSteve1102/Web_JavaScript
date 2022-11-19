@@ -1,0 +1,42 @@
+/*
+ * Copyright (c) 2022.
+ */
+
+div.temp1 {
+    position: relative;
+    width: 70%;
+    top: -203px;
+}
+
+div.content-textArea {
+    height: 195px;
+}
+
+div > img {
+    position: relative;
+    top: 10px;
+    width: 50%;
+    left: 20%;
+}
+
+div > img.h {
+    position: relative;
+    width: 100%;
+    left: 10%;
+}
+
+div.button_Wide {
+    top: 10px;
+    position: relative;
+    text-align: center;
+    left: 25%;
+    width: 550px;
+    height: 45px;
+}
+
+div.button_Wide > input {
+    font-size: 25px;
+    text-align: center;
+    width: 170px;
+    height: auto;
+}

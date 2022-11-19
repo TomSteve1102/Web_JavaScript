@@ -1,0 +1,23 @@
+/*
+ * Copyright (c) 2022. 
+ */
+
+div.content-more { /*网页内容(展示更多)容器，此处修改是为了覆盖已经定义好的content-more*/
+    display: block;
+    width: 100%;
+    position: relative;
+    top: -150px;
+    background-color: #dcedf9;
+    height: auto;
+}
+div.content-text{
+    top:-30px;
+}
+div.main_bottom{
+    height: 65%;
+}
+
+div > img {
+    position: relative;
+
+}
