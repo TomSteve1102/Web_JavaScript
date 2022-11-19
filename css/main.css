@@ -82,7 +82,7 @@ div.social_emails {
     display: block;
     height: 32px;
     width: 32px;
-    background-image: url("../icon/email.png");
+    background-image: url("../assets/icon/email.png");
     background-size: 100%;
     z-index: 3;
 }
@@ -99,7 +99,7 @@ div.social_github {
     display: block;
     height: 32px;
     width: 32px;
-    background-image: url("../icon/GitHub-Mark-64px.png");
+    background-image: url("../assets/icon/GitHub-Mark-64px.png");
     background-size: 100%;
     z-index: 3;
 }
@@ -125,7 +125,7 @@ div.main_top { /*网页背景-顶部设计*/
     width: 100%;
     height: 30%;
     background-position: unset;
-    background-image: url("../img/bg_header.png");
+    background-image: url("../assets/img/bg_header.png");
     background-color: #dcedf9;
     background-size: 100%;
     background-attachment: scroll;
@@ -154,7 +154,7 @@ input.transfer { /*定义按钮样式*/
     top: 10px;
     left: 90%;
     border: 0;
-    background-image: url("../img/button.png");
+    background-image: url("../assets/img/button.png");
     background-size: 100%;
     background-repeat: no-repeat;
     font-family: "Microsoft YaHei UI", serif;
@@ -254,7 +254,7 @@ a.transfer { /*定义在返回顶部的超链接元素为块元素，并调整�
 
 a.transfer:link, a.transfer:visited { /*设置默认状态的背景为top，并偏移一半，以隐藏图片透明的部分*/
     position: fixed;
-    background-image: url("../img/top.png");
+    background-image: url("../assets/img/top.png");
     background-size: 100%;
     right: -35px;
 }
@@ -262,7 +262,7 @@ a.transfer:link, a.transfer:visited { /*设置默认状态的背景为top，并�
 a.transfer:hover { /*设置鼠标划过超链接的背景图改变*/
     position: fixed;
     right: 0;
-    background-image: url("../img/top_hover.png");
+    background-image: url("../assets/img/top_hover.png");
     background-size: 100%;
     background-repeat: no-repeat;
 }
